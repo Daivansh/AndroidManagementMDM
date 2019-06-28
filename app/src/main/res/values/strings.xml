@@ -1,0 +1,109 @@
+<resources>
+    <string name="app_name">AndroidManagementMDM</string>
+    <string name="enrollment_activity_title">Enrollment Token</string>
+    <string name="policy_activity_title">Policy</string>
+    <string name="applications_activity_title">Applications</string>
+    <string name="emrollment_display">Enrollment Token:</string>
+    <string name="no_token">No Token</string>
+    <string name="token_creation_failed">Token Creation Failed</string>
+    <string name="no_device_found">No Device Found</string>
+    <string name="delete_device_failed">Device Deletion failed</string>
+    <string name="delete_device_success">Device Deleted Successfully : </string>
+    <string name="policy_updated_successfully">Policy Updated Successfully</string>
+    <string name="applications_updated_successfully">Applications Updated Successfully</string>
+    <string name="policy_not_applied">Error While Applying Policy </string>
+    <string name="loading">Loading…</string>
+    <string name="delete_device_alert_message">Do you want to delete this device?</string>
+    <string name="delete_device_alert_yes">Yes</string>
+    <string name="delete_device_alert_no">No</string>
+    <string name="add_application_alert_add">Add</string>
+    <string name="add_application_alert_message">Add New Application</string>
+    <string name="delete_application_alert_message">Delete this Application?</string>
+    <string name="add_application_alert_cancel">Cancel</string>
+    <string name="wrong_package_name">Wrong Package Name</string>
+    <string name="edit_text_number">Enter Number here</string>
+    <string name="edit_text_message">Enter Message here</string>
+    <string name="default_long_value">0</string>
+    <string name="application_setting_permission_spinner">dcdcw</string>
+
+    <string-array name="application_setting_permission_spinner">
+        <item>PERMISSION_POLICY_UNSPECIFIED</item>
+        <item>PROMPT</item>
+        <item>GRANT</item>
+        <item>DENY</item>
+    </string-array>
+    <string-array name="application_setting_installtype_spinner">
+        <item>INSTALL_TYPE_UNSPECIFIED</item>
+        <item>PREINSTALLED</item>
+        <item>FORCE_INSTALLED</item>
+        <item>BLOCKED</item>
+        <item>AVAILABLE</item>
+    </string-array>
+    <!--<string-array name="policy_settings_array">
+        <item>ADD USER DISABLED</item>
+        <item>ADJUST VOLUME DISABLED</item>
+        <item>AUTO TIME REQUIRED</item>
+        <item>BLOCK APPLICATIONS ENABLED</item>
+        <item>BLUETOOTH CONFIG DISABLED</item>
+        <item>BLUETOOTH CONTACT SHARING DISABLED</item>
+        <item>BLUETOOTH DISABLED</item>
+        <item>CAMERA DISABLED</item>
+        <item>CELL BROADCASTS CONFIG DISABLED</item>
+        <item>CREATE WINDOWS DISABLED</item>
+        <item>CREDENTIALS CONFIG DISABLED</item>
+        <item>DATA ROAMING DISABLED</item>
+        <item>DEBUGGING FEATURES ALLOWED</item>
+        <item>ENSURE VERIFY APPS ENABLED</item>
+        <item>FACTORY RESET DISABLED</item>
+        <item>FUN DISABLED</item>
+        <item>INSTALL APPS DISABLED</item>
+        <item>INSTALL UNKNOWN SOURCES ALLOWED</item>
+        <item>KEYGUARD DISABLED</item>
+        <item>KIOSK CUSTOM LAUNCHER ENABLED</item>
+        <item>MOBILE NETWORKS CONFIG DISABLED</item>
+        <item>MODIFY ACCOUNTS DISABLED</item>
+        <item>MOUNT PHYSICAL MEDIA DISABLED</item>
+        <item>NETWORK ESCAPE HATCH ENABLED</item>
+        <item>NETWORK RESET DISABLED</item>
+        <item>OUTGOING BEAM DISABLED</item>
+        <item>OUTGOING CALLS DISABLED</item>
+        <item>PRIVATE KEY SELECTION ENABLED</item>
+        <item>REMOVE USER DISABLED</item>
+        <item>SAFE BOOT DISABLED</item>
+        <item>SCREEN CAPTURE DISABLED</item>
+        <item>SET USER ICON DISABLED</item>
+        <item>SET WALLPAPER DISABLED</item>
+        <item>SHARE LOCATION DISABLED</item>
+        <item>SKIP FIRST USE HINTS ENABLED</item>
+        <item>SMS DISABLED</item>
+        <item>STATUS BAR DISABLED</item>
+        <item>TETHERING CONFIG DISABLED</item>
+        <item>UNINSTALL APPS DISABLED</item>
+        <item>UNMUTE MICROPHONE DISABLED</item>
+        <item>USB FILE TRANSFER DISABLED</item>
+        <item>USB MASS STORAGE ENABLED</item>
+        <item>VPN CONFIG DISABLED</item>
+        <item>WIFI CONFIG DISABLED</item>
+        <item>WIFI CONFIGS LOCKDOWN ENABLED</item>
+    </string-array>-->
+
+
+    <string-array name="APP_AUTO_UPDATE_POLICY">
+        <item>APP_AUTO_UPDATE_POLICY_UNSPECIFIED</item>
+        <item>CHOICE_TO_THE_USER</item>
+        <item>NEVER</item>
+        <item>WIFI_ONLY</item>
+        <item>ALWAYS</item>
+    </string-array>
+    <string-array name="PLAY_STORE_MODE">
+        <item>PLAY_STORE_MODE_UNSPECIFIED</item>
+        <item>WHITELIST</item>
+        <item>BLACKLIST</item>
+    </string-array>
+    <string-array name="SYSTEM_UPDATE">
+        <item>SYSTEM_UPDATE_TYPE_UNSPECIFIED</item>
+        <item>AUTOMATIC</item>
+        <item>WINDOWED</item>
+        <item>POSTPONE</item>
+    </string-array>
+</resources>

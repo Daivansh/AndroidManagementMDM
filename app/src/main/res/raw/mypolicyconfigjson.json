@@ -1,0 +1,288 @@
+{
+  "policyConfigItem": [
+    {
+      "name": "ADD USER DISABLED",
+      "fieldName": "addUserDisabled",
+      "type": 1
+    },
+    {
+      "name": "ADJUST VOLUME DISABLED",
+      "fieldName": "adjustVolumeDisabled",
+      "type": 1
+    },
+    {
+      "name": "AUTO TIME REQUIRED",
+      "fieldName": "autoTimeRequired",
+      "type": 1
+    },
+    {
+      "name": "BLOCK APPLICATIONS ENABLED",
+      "fieldName": "blockApplicationsEnabled",
+      "type": 1
+    },
+    {
+      "name": "BLUETOOTH CONFIG DISABLED",
+      "fieldName": "bluetoothConfigDisabled",
+      "type": 1
+    },
+    {
+      "name": "BLUETOOTH CONTACT SHARING DISABLED",
+      "fieldName": "bluetoothContactSharingDisabled",
+      "type": 1
+    },
+    {
+      "name": "BLUETOOTH DISABLED",
+      "fieldName": "bluetoothDisabled",
+      "type": 1
+    },
+    {
+      "name": "CAMERA DISABLED",
+      "fieldName": "cameraDisabled",
+      "type": 1
+    },
+    {
+      "name": "CELL BROADCASTS CONFIG DISABLED",
+      "fieldName": "cellBroadcastsConfigDisabled",
+      "type": 1
+    },
+    {
+      "name": "CREATE WINDOWS DISABLED",
+      "fieldName": "createWindowsDisabled",
+      "type": 1
+    },
+    {
+      "name": "CREDENTIALS CONFIG DISABLED",
+      "fieldName": "credentialsConfigDisabled",
+      "type": 1
+    },
+    {
+      "name": "DATA ROAMING DISABLED",
+      "fieldName": "dataRoamingDisabled",
+      "type": 1
+    },
+    {
+      "name": "DEBUGGING FEATURES ALLOWED",
+      "fieldName": "debuggingFeaturesAllowed",
+      "type": 1
+    },
+    {
+      "name": "ENSURE VERIFY APPS ENABLED",
+      "fieldName": "ensureVerifyAppsEnabled",
+      "type": 1
+    },
+    {
+      "name": "FACTORY RESET DISABLED",
+      "fieldName": "factoryResetDisabled",
+      "type": 1
+    },
+    {
+      "name": "FUN DISABLED",
+      "fieldName": "funDisabled",
+      "type": 1
+    },
+    {
+      "name": "INSTALL APPS DISABLED",
+      "fieldName": "installAppsDisabled",
+      "type": 1
+    },
+    {
+      "name": "INSTALL UNKNOWN SOURCES ALLOWED",
+      "fieldName": "installUnknownSourcesAllowed",
+      "type": 1
+    },
+    {
+      "name": "KEYGUARD DISABLED",
+      "fieldName": "keyguardDisabled",
+      "type": 1
+    },
+    {
+      "name": "KIOSK CUSTOM LAUNCHER ENABLED",
+      "fieldName": "kioskCustomLauncherEnabled",
+      "type": 1
+    },
+    {
+      "name": "MOBILE NETWORKS CONFIG DISABLED",
+      "fieldName": "mobileNetworksConfigDisabled",
+      "type": 1
+    },
+    {
+      "name": "MODIFY ACCOUNTS DISABLED",
+      "fieldName": "modifyAccountsDisabled",
+      "type": 1
+    },
+    {
+      "name": "MOUNT PHYSICAL MEDIA DISABLED",
+      "fieldName": "mountPhysicalMediaDisabled",
+      "type": 1
+    },
+    {
+      "name": "NETWORK ESCAPE HATCH ENABLED",
+      "fieldName": "networkEscapeHatchEnabled",
+      "type": 1
+    },
+    {
+      "name": "NETWORK RESET DISABLED",
+      "fieldName": "networkResetDisabled",
+      "type": 1
+    },
+    {
+      "name": "OUTGOING BEAM DISABLED",
+      "fieldName": "outgoingBeamDisabled",
+      "type": 1
+    },
+    {
+      "name": "OUTGOING CALLS DISABLED",
+      "fieldName": "outgoingCallsDisabled",
+      "type": 1
+    },
+    {
+      "name": "PRIVATE KEY SELECTION ENABLED",
+      "fieldName": "privateKeySelectionEnabled",
+      "type": 1
+    },
+    {
+      "name": "REMOVE USER DISABLED",
+      "fieldName": "removeUserDisabled",
+      "type": 1
+    },
+    {
+      "name": "SAFE BOOT DISABLED",
+      "fieldName": "safeBootDisabled",
+      "type": 1
+    },
+    {
+      "name": "SCREEN CAPTURE DISABLED",
+      "fieldName": "screenCaptureDisabled",
+      "type": 1
+    },
+    {
+      "name": "SET USER ICON DISABLED",
+      "fieldName": "setUserIconDisabled",
+      "type": 1
+    },
+    {
+      "name": "SET WALLPAPER DISABLED",
+      "fieldName": "setWallpaperDisabled",
+      "type": 1
+    },
+    {
+      "name": "SHARE LOCATION DISABLED",
+      "fieldName": "shareLocationDisabled",
+      "type": 1
+    },
+    {
+      "name": "SKIP FIRST USE HINTS ENABLED",
+      "fieldName": "skipFirstUseHintsEnabled",
+      "type": 1
+    },
+    {
+      "name": "SMS DISABLED",
+      "fieldName": "smsDisabled",
+      "type": 1
+    },
+    {
+      "name": "STATUS BAR DISABLED",
+      "fieldName": "statusBarDisabled",
+      "type": 1
+    },
+    {
+      "name": "TETHERING CONFIG DISABLED",
+      "fieldName": "tetheringConfigDisabled",
+      "type": 1
+    },
+    {
+      "name": "UNINSTALL APPS DISABLED",
+      "fieldName": "uninstallAppsDisabled",
+      "type": 1
+    },
+    {
+      "name": "UNMUTE MICROPHONE DISABLED",
+      "fieldName": "unmuteMicrophoneDisabled",
+      "type": 1
+    },
+    {
+      "name": "USB FILE TRANSFER DISABLED",
+      "fieldName": "usbFileTransferDisabled",
+      "type": 1
+    },
+    {
+      "name": "USB MASS STORAGE ENABLED",
+      "fieldName": "usbMassStorageEnabled",
+      "type": 1
+    },
+    {
+      "name": "VPN CONFIG DISABLED",
+      "fieldName": "vpnConfigDisabled",
+      "type": 1
+    },
+    {
+      "name": "WIFI CONFIG DISABLED",
+      "fieldName": "wifiConfigDisabled",
+      "type": 1
+    },
+    {
+      "name": "DEFAULT PERMISSION POLICY",
+      "fieldName": "defaultPermissionPolicy",
+      "type": 2,
+      "subObject": [
+        "PERMISSION_POLICY_UNSPECIFIED",
+        "PROMPT",
+        "GRANT",
+        "DENY"
+      ]
+    },
+    {
+      "name": "APP AUTO UPDATE POLICY",
+      "fieldName": "appAutoUpdatePolicy",
+      "type": 2,
+      "subObject": [
+        "APP_AUTO_UPDATE_POLICY_UNSPECIFIED",
+        "CHOICE_TO_THE_USER",
+        "NEVER",
+        "WIFI_ONLY",
+        "ALWAYS"
+      ]
+    },
+    {
+      "name": "PLAYSTORE MODE",
+      "fieldName": "playStoreMode",
+      "type": 2,
+      "subObject": [
+        "PLAY_STORE_MODE_UNSPECIFIED",
+        "WHITELIST",
+        "BLACKLIST"
+      ]
+    },
+    {
+      "name": "SYSTEM UPDATE",
+      "fieldName": "systemUpdate",
+      "type": 5,
+      "subObject": [
+        "SYSTEM_UPDATE_TYPE_UNSPECIFIED",
+        "AUTOMATIC",
+        "WINDOWED",
+        "POSTPONE"
+      ]
+    },
+    {
+      "name": "DEVICE OWNER LOCKSCREEN INFO",
+      "fieldName": "deviceOwnerLockScreenInfo",
+      "type": 4
+    },
+    {
+      "name": "LONG SUPPORT MESSAGE",
+      "fieldName": "longSupportMessage",
+      "type": 4
+    },
+    {
+      "name": "SHORT SUPPORT MESSAGE",
+      "fieldName": "shortSupportMessage",
+      "type": 4
+    },
+    {
+      "name": "MAXIMUM TIME TO LOCK",
+      "fieldName": "maximumTimeToLock",
+      "type": 3
+    }
+  ]
+}
